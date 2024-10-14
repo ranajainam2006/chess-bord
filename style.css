@@ -1,0 +1,36 @@
+ .container{
+    height: 800px;
+    width:  800px;
+    border: 20px solid;
+    border-color:rgb(51, 24, 5) ;
+    display: flex;
+    /* place-items: ; */
+  
+margin: auto;
+
+ }
+
+ .box {
+    height: 100px;
+    width: 100px;
+    
+
+ }
+ .white{
+    background:white;
+ }
+ .black{
+    background: #063e22;
+ }
+
+ .box{
+    font-size: 50px;
+    text-align: center;
+    margin: auto;
+}
+    
+    
+    
+    
+    
+
